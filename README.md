@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yash0632
-- 👀 I’m interested in cybersecurity and web developing
+- 👀 I’m a full stack software Enginner
 - 🌱 I’m currently learning b.tech in computer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
