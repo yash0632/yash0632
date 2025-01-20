@@ -1,8 +1,7 @@
 - 👋 Hi, I’m yash sharma
-- 👀 I’m a full stack software Enginner
-- 🌱 I’m currently learning b.tech in computer science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a full stack software Enginner Looking for Job
+- 🌱 I have graduated b.tech in computer science 
+...
 
 <!---
 yash0632/yash0632 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
