@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yash sharma
-- 👀 I’m a full stack software Enginner Looking for Job
+- 👀 I’m a full stack software Enginner
 - 🌱 I have graduated b.tech in computer science 
 ...
 
